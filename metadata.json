@@ -1,0 +1,8 @@
+{
+  "name": "VaultFlow Expense & Budget Tracker",
+  "description": "Multi-currency financial tracker featuring automated bank statement categorization, AI budget recommendations, biometric security, visual spending analytics, CSV exports, and multi-device cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
